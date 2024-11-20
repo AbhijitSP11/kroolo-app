@@ -1,9 +1,7 @@
 import { MoveUpRight } from 'lucide-react'
 import React from 'react'
 
-type Props = {}
-
-const Upgrade = (props: Props) => {
+const Upgrade = () => {
   return (
     <div className="mt-auto p-4 border border-gray-100 rounded-md">
         <div className="text-lg font-medium">Starter Plan</div>

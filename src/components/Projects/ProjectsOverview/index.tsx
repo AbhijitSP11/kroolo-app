@@ -1,6 +1,6 @@
 "use client";
 
-import { List, ListFilter, Search, SlidersHorizontal } from "lucide-react";
+import { List, ListFilter, Search } from "lucide-react";
 import ProjectHeader from "@/components/Projects/ProjectHeader";
 import ProjectList from "@/components/Projects/ProjectList";
 
