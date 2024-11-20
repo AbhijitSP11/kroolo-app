@@ -1,10 +1,8 @@
-import { ArrowDown, ChevronDown } from 'lucide-react'
+import { ChevronDown } from 'lucide-react'
 import React from 'react'
 import ThemeToggle from '../ui/ThemeToggle'
 
-type Props = {}
-
-const Navbar = (props: Props) => {
+const Navbar = () => {
   return (
     <div className='w-full justify-between flex p-4 bg-white border-b border-gray-200'>
         <div>

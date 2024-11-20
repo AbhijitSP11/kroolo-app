@@ -1,6 +1,6 @@
 "use client";
 
-import { DownloadCloud, Import, Plus } from "lucide-react";
+import { DownloadCloud, Plus } from "lucide-react";
 
 export default function ProjectHeader() {
   return (

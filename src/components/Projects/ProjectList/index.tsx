@@ -1,6 +1,6 @@
 "use client";
 
-import { Calendar, CalendarPlus, File, Flag, Layers, MoreHorizontal } from "lucide-react";
+import { CalendarPlus, File, Flag, Layers, MoreHorizontal } from "lucide-react";
 import { useState } from "react";
 
 export default function ProjectList() {
